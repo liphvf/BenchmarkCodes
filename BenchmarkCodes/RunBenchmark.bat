@@ -1,0 +1,1 @@
+dotnet run -c Release -- --job short --runtimes net7.0 nativeaot7.0
